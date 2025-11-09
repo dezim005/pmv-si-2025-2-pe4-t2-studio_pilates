@@ -4,32 +4,67 @@
 
 ## RESUMO
 
-O projeto de extensão desenvolvido pelo curso de Sistemas de Informação – EAD da PUC Minas, em parceria com a ONG Bicho Loko, tem como objetivo a criação de um sistema de Business Intelligence (BI) voltado à organização, análise e integração de informações essenciais para a gestão da instituição.  
-Fundada em 2015, a ONG atua no resgate, acolhimento temporário, promoção de adoções responsáveis, campanhas de castração e ações de conscientização da sociedade. Apesar de seu impacto significativo, enfrenta grandes dificuldades relacionadas à falta de centralização de dados, o que prejudica a agilidade na tomada de decisões e no estabelecimento de parcerias estratégicas. O BI permitirá consolidar informações sobre animais resgatados, voluntários, e adotantes, sendo tratados inicialmente pelo sistema os seguintes dados: id, nome do adotante, rg, endereço, bairro, cidade, estado, cep, número de telefone, e-mail, nome do animal adotado, espécie, sexo, raça, porte, idade, data da adoção e local de adoção.  
-Com isso, será possível gerar relatórios e indicadores em tempo real, facilitando o acesso rápido às informações e proporcionando maior eficiência na gestão. A relevância do projeto está na contribuição direta para o fortalecimento da ONG e, indiretamente, para o bem-estar animal e para a comunidade local, uma vez que o controle populacional, a redução do abandono e a conscientização social são fatores fundamentais para a melhoria da qualidade de vida coletiva. Assim, a iniciativa beneficia tanto a comunidade acadêmica, que vivenciará a prática de desenvolvimento tecnológico aplicado a um problema real, quanto a comunidade externa, que terá à disposição uma ferramenta de apoio essencial à sustentabilidade de suas ações.
+A INMOTION é uma empresa que atua na área de fisioterapia ortopédica/esportiva e Pilates, na promoção de saúde, prevenção e reabilitação de seus pacientes.
+A empresa foi inaugurada em 2021. no bairro Castelo, em Belo Horizonte/MG, por dois sócios-fundadores que atuam como fisioterapeutas e gestores do próprio negócio, concomitantemente.
+Além dos sócios, a clínica também conta com mais dois fisioterapeutas, constituindo um quadro de quatro profissionais, em diferentes horários de atendimento.
+A empresa possui apenas sua matriz, sendo que recentemente observou-se um aumento da demanda e a necessidade de uma expansão do espaço físico para a sala ao lado. As obras já foram iniciadas, mas há questionamentos a respeito da elaboração de novos serviços, pacotes, planos e distribuição do espaço para atendimento dos pacientes.
+Há diversas questões a serem respondidas e diagnosticadas para que as tomadas de decisão sejam as mais assertivas possível, em termos de serviços e fluxo financeiro.
+
 
 ## **JUSTIFICATIVA**
 
-A relevância social e acadêmica do projeto está alicerçada em dois eixos principais: o fortalecimento da ONG Bicho Loko e a formação cidadã dos estudantes do curso de Sistemas de Informação.  
-Para a comunidade externa, o projeto contribui para a organização de dados que permitirão maior eficiência nas campanhas de castração, nos processos de adoção, na captação de parcerias e um avanço nos processos de gestão da ONG para tomada de decisões de forma mais estratégica e melhor aproveitamento dos recursos disponíveis. Para a comunidade acadêmica, representa a aplicação prática do conhecimento adquirido em disciplinas de tecnologia da informação, análise de dados e gestão de sistemas, fortalecendo a interdisciplinaridade entre teoria e prática. Além disso, o projeto está em consonância com a Política de Extensão Universitária da PUC Minas (2025) \[4\] e com o Plano de Desenvolvimento Institucional (2022-2026) \[5\], que enfatizam a indissociabilidade entre ensino, pesquisa e extensão, bem como o compromisso social da universidade.  
-O BI a ser desenvolvido terá caráter inovador por articular dados antes dispersos, em um sistema de análise e visualização dinâmica, servindo também como objeto de pesquisa futura para estudantes interessados em gestão de dados aplicada ao terceiro setor.
+Este projeto de BI para a InMotion Fisioterapia e Pilates se justifica por sua relevância social, acadêmica e técnica, atuando como uma iniciativa de extensão universitária que une a teoria com a prática para gerar impacto real.
+### Contribuições para os Gestores (Roberta e Raphael)
+O projeto visa fornecer aos gestores uma visão clara e baseada em dados, auxiliando na tomada de decisões estratégicas. O BI pode ajudar a "enxergar o invisível":
+- Análise do perfil do cliente: Identificar padrões demográficos, horários de pico e serviços mais procurados, permitindo a criação de pacotes e planos mais atrativos e direcionados.
+- Posicionamento no mercado: Analisar a demanda e a concorrência local para identificar oportunidades de novos serviços ou nichos de mercado, auxiliando na expansão e na diversificação da oferta.
+- Gestão Financeira e Operacional: Monitorar o fluxo de caixa, a rentabilidade de cada serviço e a distribuição de horários dos profissionais, otimizando o uso do espaço físico recém-ampliado e o quadro de funcionários.
+### Contribuições para a Sociedade como um todo
+O projeto contribui diretamente para a sociedade ao promover a saúde e o bem-estar. Uma clínica mais eficiente e com gestão otimizada pode oferecer serviços de maior qualidade, acessibilidade e com um escopo ampliado. Este projeto se alinha diretamente com o Objetivo de Desenvolvimento Sustentável (ODS) 3 da ONU - Saúde e Bem-Estar, ao fortalecer um negócio que atua na prevenção, reabilitação e promoção de uma vida mais saudável.
+### Contribuições para os Clientes
+A análise de dados do projeto de BI pode beneficiar os clientes de forma direta. Com um sistema de gestão mais robusto, é possível:
+- Oferecer pacotes e planos de tratamento mais personalizados e adequados às necessidades individuais.
+- Manter um histórico de evolução do tratamento detalhado, permitindo que o cliente e o fisioterapeuta acompanhem o progresso de forma objetiva, com dados sobre melhora postural, aumento de flexibilidade ou alívio de dor.
+- Melhorar a experiência geral do cliente por meio de uma comunicação mais eficiente e serviços mais adequados.
+### Contribuições para os profissionais de Tecnologia
+Para os estudantes e futuros profissionais de tecnologia, o projeto oferece uma oportunidade inestimável de:
+- Alinhar teoria e prática: Aplicar conhecimentos técnicos em BI, análise de dados e engenharia de software na resolução de um problema real de negócio.
+- Consolidar o aprendizado: Trabalhar de forma interdisciplinar com gestores e profissionais de saúde, desenvolvendo habilidades de comunicação, gestão de projetos e adaptação a diferentes contextos.
+- Experiência de Extensão Universitária: Vivenciar o compromisso social da universidade e entender como a tecnologia pode ser uma ferramenta de transformação.
+### Contribuições para Outros Estúdios
+O sucesso deste projeto pode servir como um modelo para outros estúdios de fisioterapia e Pilates que buscam otimizar sua gestão. Os resultados e a metodologia utilizada podem ser compartilhados, demonstrando como pequenas empresas podem utilizar a tecnologia para crescer de forma sustentável, beneficiando um mercado maior de profissionais e a população em geral.
+
 
 ## **OBJETIVO GERAL**
 
-Desenvolver um painel de Business Intelligence (BI) para a ONG Bicho Loko, com vistas a centralizar e analisar informações essenciais para a gestão de suas atividades, promovendo maior eficiência organizacional e impacto social.
+Desenvolver e implementar uma solução de Business Intelligence (BI) para a clínica InMotion Fisioterapia e Pilates, com o intuito de otimizar a gestão e apoiar a tomada de decisões estratégicas. O projeto visa utilizar a análise de dados como ferramenta para impulsionar o crescimento do negócio, melhorar a experiência do cliente e fortalecer o posicionamento da empresa no mercado de bem-estar e saúde em Belo Horizonte.
 
 ## **OBJETIVOS ESPECÍFICOS**
 
-- Mapear e estruturar as informações atualmente utilizadas pela ONG: animais, adotantes, voluntários, parcerias e eventos;
-- Desenvolver um banco de dados centralizado para armazenar as informações coletadas;
-- Criar painéis interativos de BI para visualização e análise de dados em tempo real;
-- Fornecer indicadores estratégicos que apoiem a tomada de decisão da ONG;
-- Contribuir para a capacitação da ONG no uso de tecnologias de informação para gestão;
-- Fortalecer o vínculo entre a universidade e a comunidade por meio de um projeto extensionista de impacto social.
+1. Construir uma Arquitetura de Dados Centralizada para a InMotion: implementar um processo para consolidar dados de agendamentos (Pilates e Fisioterapia), cadastro de clientes e transações financeiras. O objetivo é criar um banco de dados único que servirá como a base sólida para todas as análises futuras.
+
+2. Analisar o Perfil dos Clientes e a Demanda por Serviços da InMotion: realizar uma análise aprofundada dos dados para identificar os interesses e o perfil comportamental dos clientes atuais. Isso inclui entender a demanda por horários de pico no Pilates, a frequência de atendimentos de fisioterapia e o potencial de aceitação de novos serviços como treinamento personalizado ou massoterapia.
+
+3. Otimizar a gestão e o fluxo financeiro: criar dashboards interativos e intuitivos que apresentem indicadores-chave de desempenho sobre a rentabilidade por serviço (Pilates e Fisioterapia), a produtividade de cada profissional e o fluxo de caixa. Isso permitirá aos gestores um controle financeiro mais preciso e a alocação de recursos de forma estratégica.
+
+4. Mapear o processo de expansão: utilizar as análises de dados para simular cenários de expansão. As informações coletadas ajudarão a determinar a distribuição ideal das salas e a validar quais novos serviços têm maior probabilidade de sucesso, minimizando os riscos e maximizando o retorno sobre o investimento (ROI) da nova sala.
+
+5. Apresentar os resultados: elaborar relatórios executivos e apresentações visuais claras e objetivas. O objetivo é garantir que os gestores da InMotion compreendam plenamente os insights do projeto de BI e possam utilizá-los para tomar decisões estratégicas, impulsionando o crescimento e a sustentabilidade do negócio a longo prazo.
 
 ## **PÚBLICO DO PROJETO**
 
-Caracterização do público-alvo: O projeto atenderá diretamente a ONG Bicho Loko, seus voluntários (fixos e pontuais) e protetores independentes que atuam em parceria. Indiretamente, beneficiará a comunidade de Belo Horizonte e região metropolitana, especialmente famílias adotantes e a população impactada pelas campanhas de castração e conscientização.  
-Critérios para seleção/inclusão do público-alvo: Serão considerados como público-alvo os grupos que participam diretamente das atividades da ONG, como sua representante e seus voluntários, bem como os usuários externos, visitantes do portal, que poderão acessar informações acerca do trabalho da ONG conforme os dados do BI.  
-Número de beneficiários diretos: 28 voluntários, 8 fixos e 20 pontuais, além da representante da ONG, conforme informações fornecidas pela própria instituição.  
-Número de beneficiários indiretos: Estima-se que mais de 2.000 pessoas sejam impactadas anualmente pelas campanhas de conscientização e castração promovidas pela ONG, além de 149 adotantes nos últimos 5 anos, conforme dados coletados através de formulários de adoção da ONG Bicho Loko.
+Caracterização do público-alvo:
+Público-Alvo Direto
+Gestores da InMotion (Roberta e Raphael): Os sócios-fundadores da clínica, que atuam como fisioterapeutas e gestores. O projeto de BI é focado em fornecer a eles uma visão clara e baseada em dados para a tomada de decisões estratégicas.
+
+
+Profissionais da Clínica: Os quatro fisioterapeutas da equipe, incluindo os sócios. O objetivo é otimizar a distribuição dos horários de atendimento e a produtividade de cada profissional.
+
+Clientes Atuais e Potenciais da InMotion: Principalmente adultos jovens com nível superior, que buscam Pilates por motivos de saúde, condicionamento físico ou reabilitação. A procura por homens também tem crescido. A análise de dados ajudará a oferecer pacotes e planos de tratamento mais personalizados para eles.
+
+Equipe do Projeto (Grupo de estudantes): André Lopes, Giovanny Lisboa, Luanna Gyovana, Pedro Cassimiro, Roberta Lima e Saulo. Para os estudantes, o projeto oferece a oportunidade de aplicar conhecimentos técnicos de BI na resolução de um problema real de negócio.
+
+Público-Alvo Indireto
+Outros Estúdios e Clínicas: O projeto pode servir como modelo para que outras empresas do setor de fisioterapia e Pilates otimizem sua gestão com o uso da tecnologia.
+População em geral de Belo Horizonte: O projeto contribui para a sociedade ao fortalecer um negócio que promove a saúde e o bem-estar, alinhando-se ao Objetivo de Desenvolvimento Sustentável (ODS) 3 da ONU.
+
