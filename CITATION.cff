@@ -2,34 +2,26 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: BI para Gestão e Impacto Social em Defesa Animal
+title: BI e Análise de Dados para o Plano de Expansão da InMotion Fisioterapia e Pilates
 message: >-
-  BI para Gestão e Impacto Social em Defesa Animal: Parceria
-  com a ONG Bicho Loko
+  Parceria com a Clínica InMotion Fisioterapia e Pilates
 type: software
 authors:
-  - given-names: Amanda Magalhães
-    family-names: Silva
-  - given-names: Ana Carolina Fernandes
-    name-particle: de
-    family-names: Assis
-  - given-names: Gustavo Torres
-    name-particle: da Rocha
-    family-names: Castro
-  - given-names: João Pedro Silva
-    name-particle: de
-    family-names: Oliveira
-  - given-names: Jose Alexandre Santos
-    family-names: Barbosa
-  - given-names: Milleny Ellen Jodas
-    family-names: Ferreira
-  - given-names: Viviane Aparecida Campos
-    name-particle: de Oliveira
-    family-names: Pertence
+  - given-names: de Sousa Lopes
+    family-names: Andre
+  - given-names: Lisboa
+    family-names: Giovanny
+  - given-names: Rodrigues da Silva
+    family-names: Luanna Gyovana
+  - given-names: Correia Cassimiro
+    family-names: Pedro Henrique
+  - given-names: Alves Lima
+    family-names: Roberta
+  - given-names: de Tarso Morais Ribeiro
+    family-names: Saulo
   - affiliation: PUC Minas
-    given-names: Maria Ines Lage
-    name-particle: de
-    family-names: Paula
+    given-names: Cristina Dias
+    family-names: Viviane
 repository-code: >-
   https://github.com/orgs/ICEI-PUC-Minas-PMV-SI/teams/bicho_loko
 keywords:
