@@ -1,4 +1,4 @@
-# BI para Gestão e Impacto Social em Defesa Animal
+# BI e Análise de Dados para o Plano de Expansão da InMotion Fisioterapia e Pilates
 
 `CURSO: Sistemas de Informação`
 
@@ -6,21 +6,20 @@
 
 `SEMESTRE: 4º`
 
-BI para Gestão e Impacto Social em Defesa Animal: Parceria com a ONG Bicho Loko
+Parceria com a Clínica InMotion Fisioterapia e Pilates
 
 ## Integrantes
 
-- Amanda Magalhães Silva
-- Ana Carolina Fernandes de Assis
-- Gustavo Torres da Rocha Castro
-- João Pedro Silva de Oliveira
-- Jose Alexandre Santos Barbosa
-- Milleny Ellen Jodas Ferreira
-- Viviane Aparecida Campos de Oliveira Pertence
+- Andre de Sousa Lopes
+- Giovanny Lisboa
+- Luanna Gyovana Rodrigues da Silva
+- Pedro Henrique Correia Cassimiro
+- Roberta Alves Lima
+- Saulo de Tarso Morais Ribeiro
 
 ## Orientador
 
-- Maria Inês Lage de Paula
+- Viviane Cristina Dias
 
 # Planejamento
 
